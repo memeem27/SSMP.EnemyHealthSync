@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <!-- Path to your Silksong plugins folder (where BepInEx plugins are installed) -->
+    <!-- Replace with your actual path, e.g.: C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight Silksong\BepInEx\plugins -->
+    <SilksongPluginsFolder>PATH_TO_SILKSONG\BepInEx\plugins</SilksongPluginsFolder>
+
+    <!-- Path to your Silksong game folder (where the game executable is located) -->
+    <!-- Replace with your actual path, e.g.: C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight Silksong -->
+    <SilksongGameFolder>PATH_TO_SILKSONG</SilksongGameFolder>
+  </PropertyGroup>
+</Project>

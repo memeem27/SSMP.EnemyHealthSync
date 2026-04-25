@@ -1,0 +1,41 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.cache
+project.assets.json
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.log
+launchSettings.json
+
+# IDE
+.vs/
+.vscode/
+*.sln.docstates
+.idea/
+*.DotSettings
+*.DotSettings.user
+
+# Silksong path (user-specific)
+SilksongPath.props
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+packages.lock.json
+
+# Backup/temp folders
+Backup/
+Temp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
